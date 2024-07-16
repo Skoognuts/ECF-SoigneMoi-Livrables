@@ -33,7 +33,7 @@ INSERT INTO `prescription` (`id`, `stay_id`, `date_from`, `date_to`, `medication
   (30, 25, '2024-07-30', '2024-07-31', '["2 comprimé 2 x par jour","DAFALGAN"]'),
   (31, 26, '2024-07-12', '2024-07-14', '["500mg 2 x par jour","ISIMIG"]'),
   (32, 27, '2024-07-17', '2024-07-18', '["1000mg 4 x par jour","EFFERALGAN"]'),
-  (33, 27, '2024-07-17', '2024-07-18', '["1 comprimé 3 x par jour","IMODIUM"]')
+  (33, 27, '2024-07-17', '2024-07-18', '["1 comprimé 3 x par jour","IMODIUM"]'),
   (34, 28, '2024-05-25', '2024-05-26', '["1000mg 1 x par jour avant le diner","KARDEGIC"]'),
   (35, 29, '2024-06-25', '2024-06-26', '["500mg 3 x par jour","DOLIPRANE"]'),
   (36, 29, '2024-06-25', '2024-06-26', '["1000mg 1 x par jour avant le diner","KARDEGIC"]'),

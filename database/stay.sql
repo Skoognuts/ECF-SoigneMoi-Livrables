@@ -1,7 +1,7 @@
 -- STAY --
 
 INSERT INTO `stay` (`id`, `user_id`, `doctor_id`, `date_from`, `date_to`, `reason`) VALUES
-  (1, 1, 27, '2024-05-28', '2024-05-30', 'Oreilles qui bourdonnent');
+  (1, 1, 27, '2024-05-28', '2024-05-30', 'Oreilles qui bourdonnent'),
   (2, 1, 27, '2024-07-25', '2024-07-26', 'Nez qui coule'),
   (3, 1, 26, '2024-09-12', '2024-09-13', 'Radio du cubitus droit'),
   (4, 2, 23, '2024-05-17', '2024-05-18', 'Consultation générale'),
