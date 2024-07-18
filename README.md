@@ -56,4 +56,4 @@ Le dossier Wireframes contient les wireframes des vues suivantes :
 
 ### Racine du projet :
 
-La racine du projet contient le fichier README.md ainsi que la charte graphique utilisée pour l'ensemble des applications.
+La racine du projet contient le fichier README.md ainsi que la charte graphique utilisée pour l'ensemble des applications et le manuel d'utilisation en format PDF présentant l'application et donnant des identifiants afin de réaliser les différents parcours possibles..
